@@ -3,9 +3,12 @@ Exercício desenvolvidos na Generation Brasil com HTML E BOOTSTRAP
 
 👨‍💻 Tecnoligia Utilizada :
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-
-
+  <h1  align="center">👨‍💻 Tecnoligia Utilizada :<h1>
+  
+   <p align="center">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="width: 05%;">
+</p>
+<br>
 
   <h2  align="center"> PREVIEW  :<h2>
         
