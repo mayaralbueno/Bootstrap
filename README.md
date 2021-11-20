@@ -1,7 +1,7 @@
 #  ⚠ Bootstrap 👨‍💻
 Exercício desenvolvidos na Generation Brasil com HTML E BOOTSTRAP
 
-👨‍💻 Tecnoligia Utilizada :
+
 
   <h1  align="center">👨‍💻 Tecnoligia Utilizada :<h1>
   
