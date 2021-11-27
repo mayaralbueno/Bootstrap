@@ -3,7 +3,7 @@ Exercício desenvolvidos na Generation Brasil com HTML E BOOTSTRAP
 
 
 
-  <h1  align="center">👨‍💻 Tecnoligia Utilizada :<h1>
+  <h1  align="center">👨‍💻 Tecnoligia Utilizada <h1>
   
    <p align="center">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="width: 05%;">
