@@ -1,4 +1,4 @@
-#  ⚠ Bootstrap 👨‍💻
+#   Bootstrap 
 Exercício desenvolvidos na Generation Brasil com HTML E BOOTSTRAP
 
 
