@@ -10,7 +10,7 @@ Exercício desenvolvidos na Generation Brasil com HTML E BOOTSTRAP
 </p>
 <br>
 
-  <h2  align="center"> PREVIEW  :<h2>
+  <h2  align="center"> PREVIEW  <h2>
         
       
  <p align="center">
